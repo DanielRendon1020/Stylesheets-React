@@ -2,4 +2,8 @@
   text-align: center;
 }
 
-
+.container {
+  padding: 2rem;
+  background-color: darkcyan;
+  font-size: 2rem;
+}
